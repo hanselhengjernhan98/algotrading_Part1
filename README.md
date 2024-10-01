@@ -15,4 +15,4 @@ Therefore, I figured I should first code a trading bot, which shorts the 3 worst
 
 As can be seen, it will notify you of the price in which the stock was purchased/shorted, when successful. 
 
-Please view the file for the full code!
+Please view the file for the full code. I intend to do a part 2 real soon, where I backtest this model!
