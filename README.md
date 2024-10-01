@@ -13,6 +13,6 @@ Therefore, I figured I should first code a trading bot, which shorts the 3 worst
 <img width="879" alt="image" src="https://github.com/user-attachments/assets/2b019548-ecd5-4dd5-832c-c5492e07c2f2">
 
 
-
 As can be seen, it will notify you of the price in which the stock was purchased/shorted, when successful. 
 
+Please view the file for the full code!
